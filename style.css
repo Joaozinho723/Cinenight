@@ -1,0 +1,31 @@
+@font-face{
+    font-family: valentine;
+    src: url(/fonts/Valentine.otf);
+}
+.font{
+    font-family: valentine;
+}
+@font-face{
+    font-family: brock;
+    src: url(/fonts/Brocky_personal\ use.ttf)
+}
+.font1{
+    font-family: brock;
+}
+@font-face{
+    font-family: january;
+    src: url(/fonts/January\ Night.ttf)
+}
+.font2{
+    font-family: january;
+}
+ 
+
+
+.card{
+    width: 200px;
+    height: 250px;
+    background-color: rgb(158, 7, 7);
+}
+
+
